@@ -21,4 +21,7 @@ public class Schedule {
         this.content = content;
     }
 
+    public void update(String content) {
+        this.content = content;
+    }
 }
